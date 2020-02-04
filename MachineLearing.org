@@ -1,0 +1,30 @@
+* Agenda
+
+Every Tuesday,Thursday and Sunday
+at least 3 hours
+
+** Week 1
+*** What is a machine learning ?
+A computer program is said to /lear/ from experience E 
+with respect to some task T and some performance measure P,
+if its performance on T, as measured by P, improves with the
+experience E.
+In general, any machine learing problem can be assigned to one
+of two broad classifications : 
+
+Supervised learing and Unsupervised learing.
+*** Supervised Learning
+The term supervised learning refers to the fact that we gave
+the algorithm a data set in which the called right answers were
+given.The algorith uses these right answers to predict more 
+right answers for new data input.
+The supervised learning problems are categorized into /regression/
+and /classification/ problems.
+**** Regression problems
+We are trying to predict a continuous value output.
+Lineal or quadratic regretion are possible.
+**** Classification problems
+We are trying to predict a discrete valued output
+
+** TODO Continue with unsupervised learning
+[[https://www.coursera.org/learn/machine-learning/lecture/olRZo/unsupervised-learning]]
